@@ -1,0 +1,20 @@
+emotion-aware-recommender-ecommerce/
+|
+|--data/
+|  |--raw/
+|  |--processed/
+|
+|--notebooks/
+|
+|--src/
+|  |--preprocessing/
+|  |--nlp/
+|  |--models/
+|  |--evaluation/
+|
+|--results/
+|
+|--docs/
+|
+|--README.md
+|--requirements.txt
