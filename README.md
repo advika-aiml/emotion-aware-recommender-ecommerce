@@ -1,4 +1,4 @@
-# Emotion-Aware Recommender System  
+# Sentiment-Informed Recommender System  
 ### A Stage-Wise Evaluation of Sentiment-Enhanced Recommendation Models
 
 ---
